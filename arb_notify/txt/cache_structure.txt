@@ -1,0 +1,31 @@
+{ 
+    item name : {
+        
+        'name':
+        'id':
+        'alch':
+        'limit':
+        'bid':
+        'ask':
+        'spread':
+        'ask_time':
+        'bid_time':
+        'vol_5m':
+        'vratio_5m':
+        'vol_1hr':
+        'vratio_1hr':
+        'vol_24hr':
+        'vratio_24hr':
+        'avg_ask_24':
+
+
+    {
+
+
+
+    },
+    item name :
+
+    },
+
+}
